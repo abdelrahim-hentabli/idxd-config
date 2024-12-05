@@ -1,5 +1,5 @@
-// SPDX-License-Identifier: LGPL-2.1
-// Copyright (C) 2014-2020, Intel Corporation. All rights reserved.
+/* SPDX-License-Identifier: LGPL-2.1 */
+/* Copyright(c) 2014-2019, Intel Corporation. All rights reserved. */
 
 #include <stdio.h>
 #include <stdlib.h>

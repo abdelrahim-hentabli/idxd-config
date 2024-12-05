@@ -1,5 +1,5 @@
 /* SPDX-License-Identifier: LGPL-2.1 */
-/* Copyright (C) 2014-2020, Intel Corporation. All rights reserved. */
+/* Copyright(c) 2014-2019, Intel Corporation. All rights reserved. */
 
 #ifndef __UTIL_SYSFS_H__
 #define __UTIL_SYSFS_H__
